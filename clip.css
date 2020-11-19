@@ -1,0 +1,11 @@
+p,
+li {
+  *{font-family: 'Fira Sans', sans-serif;}
+  .bold{font-weight:bold;}
+  .italic{font-style: italic;}
+  .oblique{font-style: oblique;}
+}
+
+p {
+    font-weight: bold;
+}
