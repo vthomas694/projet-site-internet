@@ -1,0 +1,38 @@
+<git config --global user.email "71893021+vthomas694@users.noreply.github.com"/><git config --global user.name "vthomas694"/>
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8" />
+        <link href="    "  rel="stylesheet"/>
+        <title>Deezy</title>
+    </head>
+
+    <body>
+    <div id="bloc page">
+      <header>
+        <div id="titre_principal">
+          <div class="logo">
+            <img src="image/ logo deezy.png" alt="logo deezy" />
+            <h1> DeeZy </h1>
+          </div>
+
+        </div>
+        <nav>
+          <ul>
+            <li><a href="coucou.html" target="_self">Accueil</a></li>
+            <li><a href="page clip" target="_self">Clip</a></li>
+            <li><a href="css.jsp" target="_self">Playlist</a></li>
+          </ul>
+        </nav>
+      </header>
+
+      <section>
+        <article>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/NAA31YId_sQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+insertion clip
+
+  </body>
+</html>
